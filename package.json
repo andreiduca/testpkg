@@ -8,6 +8,7 @@
   },
   "author": "Andrei Duca",
   "license": "Apache-2.0",
+  "repository": "https://github.com/andreiduca/testpkg.git",
   "devDependencies": {
     "lerna": "^3.0.0-rc.0"
   }
