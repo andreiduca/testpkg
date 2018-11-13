@@ -1,0 +1,6 @@
+@import "~@testorgpkg/core";
+
+body {
+    background: var(--main-bg);
+    color: var(--main-text);
+}
